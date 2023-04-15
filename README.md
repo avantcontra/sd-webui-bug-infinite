@@ -2,23 +2,13 @@
 
 An infinite zoom effect of Stable Diffusion Webui extension.
 
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/659937/232247941-0fe2e6cc-941f-49a2-9f63-c43010df1b74.gif)
 
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/659937/232248044-2fd0f884-3190-4e9b-93cf-5664f9ebeb06.gif)
 
-https://user-images.githubusercontent.com/659937/232246552-e7d335b4-db2c-42ea-b921-cda573996d57.mp4
+![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/659937/232248209-dbf778a5-103a-4259-b08e-6d04355f56e2.gif)
 
-<br/>
-
-https://user-images.githubusercontent.com/659937/232246560-2c628d67-0813-4425-b52a-6e65459afd7a.mp4
-
-<br/>
-
-https://user-images.githubusercontent.com/659937/232246564-ce25c888-273e-4572-9662-ba427135dcdf.mp4
-
-<br/>
-
-https://user-images.githubusercontent.com/659937/232246573-6eb3078a-3b36-4093-b94c-0b7ca93b9f5d.mp4
-
-<br/>
+![ezgif com-resize (2)](https://user-images.githubusercontent.com/659937/232248339-37b0441e-81f8-4b05-b5f9-ae961a480985.gif)
 
 ## Install:
 - Install extension by going to SD Webui Extensions tab -> Install from URL -> Paste this repo URL and click Install.
