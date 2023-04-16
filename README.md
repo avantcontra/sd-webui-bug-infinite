@@ -17,12 +17,23 @@ An infinite zoom effect of Stable Diffusion Webui extension.
 ![Snipaste_2023-04-16_01-41-36](https://user-images.githubusercontent.com/659937/232246581-f1cbf111-2fc8-445c-a96d-6366bf283754.png)
 
 ## Usage:
-- Generate an image in txt2img;
+- Using the Inpainting models as base model;
+- Generate an image in txt2img (or select in Inpaint);
 - Send the image to inpaint;
 - Switch to img2img and Inpaint;
+- Choose Bug Infinite in Script;
 - An example set of parameters: 
 ![image](https://user-images.githubusercontent.com/659937/232247107-0ddc2400-5c2d-4c05-9f23-dbe8c78d9146.png)
 ![Snipaste_2023-04-16_01-41-36](https://user-images.githubusercontent.com/659937/232246581-f1cbf111-2fc8-445c-a96d-6366bf283754.png)
+
+<br/>
+
+## Inpaint Models:
+Runway:
+https://huggingface.co/runwayml/stable-diffusion-inpainting
+
+Stabilityai:
+https://huggingface.co/stabilityai/stable-diffusion-2-inpainting
 
 <br/>
 
