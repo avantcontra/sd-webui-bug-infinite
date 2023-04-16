@@ -1,5 +1,6 @@
 # Author: @avantcontra
 # https://github.com/avantcontra/sd-webui-bug-infinite
+# Credit: https://github.com/BalintKomjati/smooth-infinite-zoom
 
 
 import time
