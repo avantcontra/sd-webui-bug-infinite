@@ -2,13 +2,26 @@
 
 An infinite zoom effect of Stable Diffusion Webui extension.
 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/659937/232247941-0fe2e6cc-941f-49a2-9f63-c43010df1b74.gif)
+## Features
 
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/659937/232248044-2fd0f884-3190-4e9b-93cf-5664f9ebeb06.gif)
+It supports different resolutions and zoom direction:
 
-![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/659937/232248209-dbf778a5-103a-4259-b08e-6d04355f56e2.gif)
+**Rect, Zoom In:**
 
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/659937/232248339-37b0441e-81f8-4b05-b5f9-ae961a480985.gif)
+https://user-images.githubusercontent.com/659937/232396380-1ea5902a-9bd9-4292-bb83-ddc008abfbfc.mp4
+
+<br/>
+
+**Landscape, Zoom Out:**
+
+https://user-images.githubusercontent.com/659937/232395645-f73564ed-fce7-4cca-ab29-5bc5e9a262d6.mp4
+
+<br/>
+
+**Portrait, Zoom In:**
+
+https://user-images.githubusercontent.com/659937/232396607-86950767-4503-43e2-84df-5f676e5bb74e.mp4
+
 
 ## Install:
 - Install extension by going to SD Webui Extensions tab -> Install from URL -> Paste this repo URL and click Install.
@@ -39,6 +52,20 @@ https://huggingface.co/stabilityai/stable-diffusion-2-inpainting
 
 ## Credit:
 https://github.com/BalintKomjati/smooth-infinite-zoom
+
+## More Showcase:
+
+
+https://user-images.githubusercontent.com/659937/232398638-4bc67371-d8fd-422f-a33d-615989e2491d.mp4
+
+<br/>
+
+https://user-images.githubusercontent.com/659937/232399007-85a11262-0478-4a0a-88b8-089bea13514d.mp4
+
+<br/>
+
+https://user-images.githubusercontent.com/659937/232399367-df675e28-7025-45f9-8dd2-ea7bb03294e8.mp4
+
 
 ----
 
